@@ -1,4 +1,2 @@
 # PyQuiz
-modules used:
-random
-tkinter
+![Sample pic](/sample.png)
